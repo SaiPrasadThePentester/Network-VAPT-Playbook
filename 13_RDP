@@ -3,3 +3,5 @@ Port Number:3389
 
 rdp-enum-encryption tells whether RDP is using weak legacy encryption or modern TLS + NLA.
 rdp-ntlm-info
+
+Brut Force With out blocking - Report It
