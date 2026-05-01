@@ -1,0 +1,7 @@
+https://203.112.132.158:8443/ (Port 8443) – Kubernetes API Server
+
+https://203.112.132.158:8443/version
+
+
+Multiple known CVE’s are present for this Kubernetes (v1.21.2) 
+I.e CVE-2019-11253, CVE-2023-5528, CVE-2023-3955, CVE-2022-3172
