@@ -13,3 +13,7 @@ set USERNAME Name
 SET PASSWORD pass
 Run
 #Enumerates MySQL users, databases, and privileges using valid credentials.
+
+
+
+5.0 and 5.1 mysql OutDated - Report It
