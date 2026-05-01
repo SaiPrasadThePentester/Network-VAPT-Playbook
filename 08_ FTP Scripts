@@ -40,3 +40,6 @@ set RPORT 21
 run
 
 NOTE : If vulnerable it opens shell 
+
+
+ftp 2.0.8 OutDated 
