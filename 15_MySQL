@@ -19,3 +19,8 @@ Run
 5.0 and 5.1 mysql OutDated - Report It
 
 If portgresql 8443 or mysql is running default port , Report it as change to different port
+
+
+Multiple CVE’s are affected CVE-2016-0597, CVE-2018-3174, CVE-2018-3282 for the MariaDB (5.5.5-10.3.39)
+
+Multiple CVE’s are affected CVE-2024-10976,  CVE-2024-10978, CVE-2024-0985 for the PostgreSQL versions 9.5 and 9.6
