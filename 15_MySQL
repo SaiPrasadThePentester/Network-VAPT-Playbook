@@ -17,3 +17,5 @@ Run
 
 
 5.0 and 5.1 mysql OutDated - Report It
+
+If portgresql 8443 or mysql is running default port , Report it as change to different port
