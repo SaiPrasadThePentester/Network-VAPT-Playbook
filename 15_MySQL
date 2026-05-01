@@ -7,12 +7,24 @@ set RHOST ip
 run
 #Identifies the MySQL database version running on the target system
 
+
+
 use auxiliary/admin/mysql/mysql_enum
 set RHOST ip
 set USERNAME Name
 SET PASSWORD pass
 Run
 #Enumerates MySQL users, databases, and privileges using valid credentials.
+
+
+
+#nmap mysql info script - If we Got data Report It
+Service: Microsoft SQL Server 2019
+Version: 15.00.2155.00 (GDR1+)
+Port: 1433/tcp (open)
+Host Information:
+Computer Name: SRV203-007
+Domain: spl.com
 
 
 
