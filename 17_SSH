@@ -5,3 +5,5 @@ nmap -p22 --script ssh2-enum-algos webbingprotechnologies.com { weak algorithms 
 https://github.com/jtesta/ssh-audit
 https://sshaudit.online/
 
+
+open ssh 7.8 & 8.2 & 8.4 OutDated
